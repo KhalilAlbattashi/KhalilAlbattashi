@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KhalilAlbattashi
 - 👀 I’m a Full-stack Developer Trainee at Code Academy Oman
-- 📫 Contact me on albattashi.ka@gmail.com
 
 
 ## 🌐 Socials:
