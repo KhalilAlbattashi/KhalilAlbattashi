@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhalilAlbattashi
-- 👀 I’m a Full-stack Developer Trainee at Code Academy Oman
+- 👀 I’m a Software Developer at Oman Real
 
 
 ## 🌐 Socials:
