@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KhalilAlbattashi
-- 👀 I’m a Software Developer at Oman Real
+- 👀 I’m a Mobile Application Developer at Oman Real
 
 
 ## 🌐 Socials:
